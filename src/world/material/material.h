@@ -1,0 +1,10 @@
+#pragma once
+#include "../../main.h"
+#include "biomes.h"
+#include "block_entities.h"
+#include "blocks.h"
+#include "codec.h"
+#include "dimensions.h"
+#include "items.h"
+#include "state_modifiers.h"
+#include "tags/tags.h"
